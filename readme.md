@@ -2315,14 +2315,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/MHN1001">
-                <img src="https://avatars.githubusercontent.com/u/189483960?v=4">
-                <br>
-     <!--// EL MEHDI MHAOUNE // -->
-     <tr>
-        <td align="center" width="600">
-        &nbsp;&nbsp
-            <a href="https://github.com/MHN1001">
-                <img src="https://avatars.githubusercontent.com/u/189483960?v=4">
+                <img src="https://avatars.githubusercontent.com/u/189483960?s=96&v=4">
                 <br>
                 <h2>EL MEHDI MHAOUNE</h2>
             </a>
